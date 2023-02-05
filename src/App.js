@@ -8,7 +8,7 @@ import {Page5} from "./pages/Page5";
 function App() {
   return (
     <div className="App">
-      <Page5 />
+      <Page1 />
     </div>
   );
 }
